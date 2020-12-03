@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "alessandro.fresneda84@gmail.com",
+      "password": "123",
+      "token": "123"
+    },
+    {
+      "email": "contato@dinheirow.com.br",
+      "password": "D1nh3ir0w2018!",
+      "token": 4,
+      "id": 2
+    },
+    {
+      "email": "alessandro.fresneda84@gmail.com",
+      "password": "admin123",
+      "token": 3,
+      "id": 3
+    },
+    {
+      "email": "alessandro.fresneda84@gmail.com",
+      "password": "admin123",
+      "token": 6,
+      "id": 4
+    },
+    {
+      "email": "alessandro.fresneda84@gmail.com",
+      "password": "admin123",
+      "token": 1,
+      "id": 5
+    },
+    {
+      "email": "alessandro.fresneda84@gmail.com",
+      "password": "admin123",
+      "token": 8,
+      "id": 6
+    },
+    {
+      "email": "alessandro.fresneda84@gmail.com",
+      "password": "admin123",
+      "token": 5,
+      "id": 7
+    },
+    {
+      "email": "alessandro.fresneda84@gmail.com",
+      "password": "admin123",
+      "token": 6,
+      "id": 8
+    },
+    {
+      "email": "alessandro.fresneda84@gmail.com",
+      "password": "admin123",
+      "token": 3,
+      "id": 9
+    },
+    {
+      "email": "minas@gmail.com",
+      "password": "123",
+      "token": 5,
+      "id": 10
+    },
+    {
+      "email": "alessandro.fresneda84@gmail.com",
+      "password": "admin123",
+      "token": 4,
+      "id": 11
+    },
+    {
+      "email": "alessandro.fresneda84@gmail.com",
+      "password": "admin123",
+      "token": 1,
+      "id": 12
+    }
+  ],
+  "users_data_table": [
+    {
+      "name": "Alessandro Rodrigo Fresneda Perez Junior",
+      "email": "alessandro.fresneda84@gmail.com",
+      "document": "11.111.111/1111-11",
+      "longitude": -50.1907,
+      "latitude": -20.1498,
+      "id": 9
+    },
+    {
+      "name": "123",
+      "email": "123",
+      "document": "123.",
+      "longitude": -50.1907,
+      "latitude": -20.1498,
+      "id": 10
+    },
+    {
+      "name": "Alessandro",
+      "email": "alessandro.fresneda84@gmail.com",
+      "document": "111.111.111-11",
+      "longitude": -50.1907,
+      "latitude": -20.1498,
+      "id": 11
+    },
+    {
+      "name": "Gustavo",
+      "email": "asdasdasdasd",
+      "document": "11.111.111/1111-11",
+      "longitude": -50.1907,
+      "latitude": -20.1498,
+      "id": 12
+    },
+    {
+      "name": "Minas Gerais",
+      "email": "minas_gerais@gmail.com",
+      "document": "111.111.111-11",
+      "longitude": -50.1907,
+      "latitude": -20.1498,
+      "id": 13
+    },
+    {
+      "name": "123123",
+      "email": "123123",
+      "document": "123.",
+      "longitude": -50.1907,
+      "latitude": -20.1498,
+      "id": 14
+    }
+  ]
+}
